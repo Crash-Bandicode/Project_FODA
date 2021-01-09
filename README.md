@@ -1,5 +1,5 @@
 # Project_FODA
-An investigation into various forms of linear regression applied to power curves of wind turbines.
+An investigation into various forms of regression applied to power curves of wind turbines.
 
 # Description:
 Linear regression, followed by logistical regression on a given power curve, with some experimentation along the way.
@@ -13,3 +13,5 @@ The max output of the given dataset was roughly 1/20th the value of almost all o
 When I inputted what I thought were the parameters based on the given dataset into the equation, the results turned out very well.
 
 The last section is the discovery process that occured before I decided to change the parameters. I put all relevant results before the Bibliography.
+
+My hope was to remove the 0 values and clean the dataset, but the aforementioned issues took up too much time. I still think it's important to recognise that they were there.
